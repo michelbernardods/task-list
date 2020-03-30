@@ -21,12 +21,14 @@ Task List é um aplicativo para cadastrar novas tarefas.
 
 
 # Requisitos
-
-- Para acessar a aplicação precisa ter instalado no celular Expo.
-- yarn init ou npm install para baixar as dependências.
-- yarn start ou npm start.
-- scannear código do expo pelo App do Expo.
-- Pode ser acessado pelo Android Studio.
+- Globally installed node >= 6.0
+- Globally installed npm >= 4.0
+- Globally installed Expo CLI OR React Native CLI
+- Para acessar a aplicação precisa ter instalado no celular Expo
+- yarn init ou npm install para baixar as dependências
+- yarn start ou npm start
+- scannear código do expo pelo App do Expo
+- Pode ser acessado pelo Android Studio
 
 ### 💻 Preview
 
