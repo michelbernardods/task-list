@@ -8,13 +8,6 @@
 </h4>
 
 
-<h3 align="center">
-  #javascript #es6 #apirest #vuejs #vuetify #vuenative #nativescript #postgresql #nodejs #npm #yarn #eslint #axios #mobile #android #ios #androidstudio #vscode 
-</h3>
-
-
-Linkedin : https://www.linkedin.com/in/michel-bernardo/
-
 ## :rocket: About the Application
 
 Task List is an app for register new tasks.
